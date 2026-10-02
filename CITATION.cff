@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: FL-LQP - Frozen-LLM Learnable Query Pooling
+message: If you use this software, please cite it.
+authors:
+  - family-names: lanche-furry
+    given-names: lanche
+date-released: 2026-10-03
+license: MIT
+repository-code: https://github.com/lanche-furry/FL-LQP
